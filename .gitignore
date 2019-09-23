@@ -1,2 +1,6 @@
 data/
 .idea/
+*.png
+*.js
+*.json
+*.xlsx
